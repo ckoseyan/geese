@@ -1,1 +1,1 @@
-database
+goose database
